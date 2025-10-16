@@ -1,0 +1,11 @@
+# Treat all ML models as binary (disable text diffs)
+*.mlmodel binary
+# Treat Create ML project files as binary (just in case)
+*.mlproject binary
+*.mlmodel filter=lfs diff=lfs merge=lfs -text
+# Treat all Core ML packages as binary, track with LFS
+*.mlpackage filter=lfs diff=lfs merge=lfs -text
+# Treat Create ML models as binary
+*.mlmodel filter=lfs diff=lfs merge=lfs -text
+# Treat Create ML project files as binary
+*.mlproject binary
