@@ -1,5 +1,8 @@
 # Get To Know
 
+
+[Promo](https://youtu.be/T6dqImAhgu8)
+[App](https://gettoknow.city)
 [Demo](https://youtu.be/bQwDhUiWAfA)  
 
 > Explore cities like never before. Discover hidden gems, connect with local culture & fellow travelers, collect badges for real world prizes—all before you even visit IRL!
