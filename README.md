@@ -241,7 +241,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is built with Lovable and is available for personal and educational use.
+This project is built with Lovable.
 
 ---
 
