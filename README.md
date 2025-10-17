@@ -1,5 +1,7 @@
 # Get To Know
 
+[Demo](https://youtu.be/bQwDhUiWAfA)  
+
 > Explore cities like never before. Discover hidden gems, connect with local culture & fellow travelers, collect badges for real world prizes—all before you even visit IRL!
 
 A GTA-style third-person walking simulator built with Three.js and Google's Photorealistic 3D Tiles. Explore Huntington Park, Los Angeles in stunning 3D detail, complete quests, collect badges, and connect with other players.
